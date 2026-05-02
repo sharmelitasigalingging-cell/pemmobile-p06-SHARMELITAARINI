@@ -1,8 +1,8 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Nama Kamu]
-- NIM:  [NIM Kamu]
+- Nama: [sHARMELITA ARINI TERESIA S]
+- NIM:  [243303621242]
 
 ## Fitur yang Diimplementasikan
 - [x] FlatList dengan 12+ produk
@@ -18,14 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[screenshot HP fisik di sini]
+[https://github.com/sharmelitasigalingging-cell/pemmobile-p06-SHARMELITAARINI/blob/main/Tampilan%20Utama%20(List%20Produk).jpeg]
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+[https://github.com/sharmelitasigalingging-cell/pemmobile-p06-SHARMELITAARINI/blob/main/Tampilan%20Search.jpeg]
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
-
+[https://github.com/sharmelitasigalingging-cell/pemmobile-p06-SHARMELITAARINI/blob/main/Empty%20State.jpeg]
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
 2. Install deps: npm install
