@@ -26,7 +26,7 @@
 ### Tampilan Empty State — saat tidak ada hasil
 [https://github.com/sharmelitasigalingging-cell/pemmobile-p06-SHARMELITAARINI/blob/main/Empty%20State.jpeg]
 ## Cara Menjalankan
-1. Clone repo  : git clone [url-repo-kamu]
+1. Clone repo  : git clone [url-repo-kamu] [https://github.com/sharmelitasigalingging-cell/pemmobile-p06-SHARMELITAARINI]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
